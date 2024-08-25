@@ -1,0 +1,21 @@
+# --------- core --------- #
+torch
+langchain
+langchain-community
+langchain-huggingface
+langchain_text_splitters
+faiss-cpu
+jinja2
+cherrypy
+
+# --------- hydra --------- #
+hydra-core
+hydra-colorlog
+
+# --------- others --------- #
+rootutils              # standardizing the project root setup
+pre-commit             # hooks for applying linters on commit
+rich                   # beautiful text formatting in terminal
+pytest                 # tests
+loguru                 # logging
+pathlib                # path manipulation

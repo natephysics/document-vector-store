@@ -1,0 +1,4 @@
+_target_: langchain_text_splitters.RecursiveCharacterTextSplitter
+chunk_size: 100
+chunk_overlap: 20
+is_separator_regex: false

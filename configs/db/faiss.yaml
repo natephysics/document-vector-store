@@ -1,0 +1,2 @@
+_target_: langchain_community.vectorstores.FAISS.from_documents
+embedding: ${model}

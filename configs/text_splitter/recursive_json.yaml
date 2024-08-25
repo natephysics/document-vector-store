@@ -1,0 +1,2 @@
+_target_: langchain_text_splitters.RecursiveJsonSplitter
+max_chunk_size: 300

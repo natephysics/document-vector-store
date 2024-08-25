@@ -1,0 +1,5 @@
+_target_: langchain_text_splitters.CharacterTextSplitter
+separator: \n\n
+chunk_size: 1000
+chunk_overlap: 200
+is_separator_regex: false
